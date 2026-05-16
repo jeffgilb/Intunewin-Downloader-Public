@@ -1,6 +1,8 @@
 # Intunewin Downloader
 Intunewin Downloader
 
+Requires .net 8 To be Installed
+
     Version history
     0.1.0 Initial GUI version with Company Portal catalog discovery, SideCar GetContentInfo download, decrypt, and extract.
     0.2.0 WAM became the default SideCar token path. TBRES was moved behind an optional legacy fallback.
